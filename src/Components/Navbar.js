@@ -16,11 +16,13 @@ function Navbar() {
       <ul style={ul_style}>
         {" "}
         <li style={list_style}>
-        <img
-            src="./Textures/logo.png"
+          <img
+            src="logo.png"
             alt="icon"
-            style={{ width: "20px", height: "20px", marginRight: "5px" }}
+            style={{ width: "25px", height: "25px", marginRight: "5px" }}
           />
+        </li>
+        <li style={list_style}>
           <a href="/">Home Page</a>
         </li>
         <li style={list_style}>
