@@ -1,0 +1,3 @@
+npx create-react-app assignment_1 -- create project
+npm start -- run project
+npm install styled-components
