@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+mern_skeleton/
 /.pnp
 .pnp.js
 
